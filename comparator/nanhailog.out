@@ -1,0 +1,1457 @@
+[INFO  2016-07-02 12:55:16,764 com.nanhai.comparator.Test:13] test
+[INFO  2016-07-02 13:01:45,446 com.nanhai.comparator.Test:16] test
+[INFO  2016-07-02 13:01:45,447 com.nanhai.comparator.Test:20] java.io.FileInputStream@27d6c5e0
+[INFO  2016-07-02 13:02:02,956 com.nanhai.comparator.Test:16] test
+[INFO  2016-07-02 13:02:02,957 com.nanhai.comparator.Test:20] java.io.FileInputStream@5fd0d5ae
+[INFO  2016-07-02 13:17:16,140 com.nanhai.comparator.Test:16] test
+[INFO  2016-07-02 13:17:19,187 com.nanhai.comparator.Test:16] test
+[INFO  2016-07-02 13:18:21,677 com.nanhai.comparator.Test:16] test
+[INFO  2016-07-02 13:18:42,000 com.nanhai.comparator.Test:16] test
+[INFO  2016-07-02 13:18:49,508 com.nanhai.comparator.Test:16] test
+[INFO  2016-07-02 13:18:49,509 com.nanhai.comparator.Test:24] 中国一词，最早见于西周，是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:20:26,174 com.nanhai.comparator.Test:16] test
+[INFO  2016-07-02 13:20:26,176 com.nanhai.comparator.Test:24] 中国一词，最早见于西周，是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:20:26,176 com.nanhai.comparator.Test:27] 中国一词，最早见于西周，是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:23:21,071 com.nanhai.comparator.Test:16] test
+[INFO  2016-07-02 13:23:21,072 com.nanhai.comparator.Test:24] 中国一词，最早见于西周，是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:23:21,073 com.nanhai.comparator.Test:27] 中国一词，最早见于西周，是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:25:43,291 com.nanhai.comparator.Test:16] test
+[INFO  2016-07-02 13:25:43,292 com.nanhai.comparator.Test:24] 中国一词，最早见于西周，是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:25:43,292 com.nanhai.comparator.Test:32] 中国一词，最早见于西周，是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:33:09,677 com.nanhai.comparator.Test:16] test
+[INFO  2016-07-02 13:33:09,678 com.nanhai.comparator.Test:24] 中国一词，最早见于西周，是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:36:35,600 com.nanhai.comparator.Test:17] test
+[INFO  2016-07-02 13:36:35,602 com.nanhai.comparator.Test:25] 中国一词，最早见于西周，是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:37:31,740 com.nanhai.comparator.Test:17] test
+[INFO  2016-07-02 13:37:31,742 com.nanhai.comparator.Test:25] 中国一词，最早见于西周，是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:45:12,318 com.nanhai.comparator.Test:17] test
+[INFO  2016-07-02 13:45:12,320 com.nanhai.comparator.Test:25] 中国一词，最早见于西周，是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:45:12,320 com.nanhai.comparator.Test:29] 中国一词
+[INFO  2016-07-02 13:45:12,320 com.nanhai.comparator.Test:29] 最早见于西周
+[INFO  2016-07-02 13:45:12,320 com.nanhai.comparator.Test:29] 是指以洛阳盆地为中心的中原地区
+[INFO  2016-07-02 13:45:12,320 com.nanhai.comparator.Test:29] 现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:49:28,692 com.nanhai.comparator.Test:17] test
+[INFO  2016-07-02 13:49:28,694 com.nanhai.comparator.Test:30] 中国一词，最早见于西周，是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:49:28,694 com.nanhai.comparator.Test:34] 中国一词
+[INFO  2016-07-02 13:49:28,694 com.nanhai.comparator.Test:34] 最早见于西周
+[INFO  2016-07-02 13:49:28,694 com.nanhai.comparator.Test:34] 是指以洛阳盆地为中心的中原地区
+[INFO  2016-07-02 13:49:28,694 com.nanhai.comparator.Test:34] 现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:49:28,694 com.nanhai.comparator.Test:30] 中国一词，最早见于西周，
+[INFO  2016-07-02 13:49:28,695 com.nanhai.comparator.Test:34] 中国一词
+[INFO  2016-07-02 13:49:28,696 com.nanhai.comparator.Test:34] 最早见于西周
+[INFO  2016-07-02 13:49:28,696 com.nanhai.comparator.Test:30] 是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:49:28,696 com.nanhai.comparator.Test:34] 是指以洛阳盆地为中心的中原地区
+[INFO  2016-07-02 13:49:28,696 com.nanhai.comparator.Test:34] 现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:50:08,439 com.nanhai.comparator.Test:17] test
+[INFO  2016-07-02 13:50:08,441 com.nanhai.comparator.Test:30] 中国一词，最早见于西周，是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:50:08,441 com.nanhai.comparator.Test:30] 中国一词，最早见于西周，
+[INFO  2016-07-02 13:50:08,441 com.nanhai.comparator.Test:30] 是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:54:13,326 com.nanhai.comparator.Test:17] test
+[INFO  2016-07-02 13:54:13,328 com.nanhai.comparator.Test:36] 中国一词，最早见于西周，是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:54:13,328 com.nanhai.comparator.Test:39] 中国一词
+[INFO  2016-07-02 13:54:13,328 com.nanhai.comparator.Test:39] 最早见于西周
+[INFO  2016-07-02 13:54:13,328 com.nanhai.comparator.Test:39] 是指以洛阳盆地为中心的中原地区
+[INFO  2016-07-02 13:54:13,328 com.nanhai.comparator.Test:39] 现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:54:13,328 com.nanhai.comparator.Test:36] 中国一词，最早见于西周，
+[INFO  2016-07-02 13:54:13,328 com.nanhai.comparator.Test:39] 中国一词
+[INFO  2016-07-02 13:54:13,329 com.nanhai.comparator.Test:39] 最早见于西周
+[INFO  2016-07-02 13:54:13,329 com.nanhai.comparator.Test:36] 是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:54:13,329 com.nanhai.comparator.Test:39] 是指以洛阳盆地为中心的中原地区
+[INFO  2016-07-02 13:54:13,330 com.nanhai.comparator.Test:39] 现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:54:13,330 com.nanhai.comparator.Test:59] high frequency is: 0
+[INFO  2016-07-02 13:54:53,615 com.nanhai.comparator.Test:17] test
+[INFO  2016-07-02 13:54:53,617 com.nanhai.comparator.Test:34] high word is : 中
+[INFO  2016-07-02 13:54:53,617 com.nanhai.comparator.Test:38] 中国一词，最早见于西周，是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:54:53,617 com.nanhai.comparator.Test:41] 中国一词
+[INFO  2016-07-02 13:54:53,617 com.nanhai.comparator.Test:41] 最早见于西周
+[INFO  2016-07-02 13:54:53,617 com.nanhai.comparator.Test:41] 是指以洛阳盆地为中心的中原地区
+[INFO  2016-07-02 13:54:53,617 com.nanhai.comparator.Test:41] 现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:54:53,617 com.nanhai.comparator.Test:38] 中国一词，最早见于西周，
+[INFO  2016-07-02 13:54:53,618 com.nanhai.comparator.Test:41] 中国一词
+[INFO  2016-07-02 13:54:53,618 com.nanhai.comparator.Test:41] 最早见于西周
+[INFO  2016-07-02 13:54:53,619 com.nanhai.comparator.Test:38] 是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:54:53,619 com.nanhai.comparator.Test:41] 是指以洛阳盆地为中心的中原地区
+[INFO  2016-07-02 13:54:53,619 com.nanhai.comparator.Test:41] 现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:54:53,619 com.nanhai.comparator.Test:34] high word is : 国
+[INFO  2016-07-02 13:54:53,619 com.nanhai.comparator.Test:34] high word is : 一
+[INFO  2016-07-02 13:54:53,619 com.nanhai.comparator.Test:34] high word is : 词
+[INFO  2016-07-02 13:54:53,620 com.nanhai.comparator.Test:34] high word is : 最
+[INFO  2016-07-02 13:54:53,620 com.nanhai.comparator.Test:34] high word is : 早
+[INFO  2016-07-02 13:54:53,620 com.nanhai.comparator.Test:34] high word is : 见
+[INFO  2016-07-02 13:54:53,620 com.nanhai.comparator.Test:34] high word is : 于
+[INFO  2016-07-02 13:54:53,620 com.nanhai.comparator.Test:34] high word is : 西
+[INFO  2016-07-02 13:54:53,620 com.nanhai.comparator.Test:34] high word is : 周
+[INFO  2016-07-02 13:54:53,620 com.nanhai.comparator.Test:61] high frequency is: 0
+[INFO  2016-07-02 13:55:30,253 com.nanhai.comparator.Test:17] test
+[INFO  2016-07-02 13:55:30,254 com.nanhai.comparator.Test:34] high word is : 中
+[INFO  2016-07-02 13:55:30,254 com.nanhai.comparator.Test:38] 中国一词，最早见于西周，是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:55:30,255 com.nanhai.comparator.Test:41] 中
+[INFO  2016-07-02 13:55:30,255 com.nanhai.comparator.Test:41] 国
+[INFO  2016-07-02 13:55:30,256 com.nanhai.comparator.Test:41] 一
+[INFO  2016-07-02 13:55:30,256 com.nanhai.comparator.Test:41] 词
+[INFO  2016-07-02 13:55:30,256 com.nanhai.comparator.Test:41] ，
+[INFO  2016-07-02 13:55:30,257 com.nanhai.comparator.Test:41] 最
+[INFO  2016-07-02 13:55:30,257 com.nanhai.comparator.Test:41] 早
+[INFO  2016-07-02 13:55:30,257 com.nanhai.comparator.Test:41] 见
+[INFO  2016-07-02 13:55:30,257 com.nanhai.comparator.Test:41] 于
+[INFO  2016-07-02 13:55:30,257 com.nanhai.comparator.Test:41] 西
+[INFO  2016-07-02 13:55:30,257 com.nanhai.comparator.Test:41] 周
+[INFO  2016-07-02 13:55:30,257 com.nanhai.comparator.Test:41] ，
+[INFO  2016-07-02 13:55:30,257 com.nanhai.comparator.Test:41] 是
+[INFO  2016-07-02 13:55:30,258 com.nanhai.comparator.Test:41] 指
+[INFO  2016-07-02 13:55:30,258 com.nanhai.comparator.Test:41] 以
+[INFO  2016-07-02 13:55:30,258 com.nanhai.comparator.Test:41] 洛
+[INFO  2016-07-02 13:55:30,258 com.nanhai.comparator.Test:41] 阳
+[INFO  2016-07-02 13:55:30,258 com.nanhai.comparator.Test:41] 盆
+[INFO  2016-07-02 13:55:30,258 com.nanhai.comparator.Test:41] 地
+[INFO  2016-07-02 13:55:30,259 com.nanhai.comparator.Test:41] 为
+[INFO  2016-07-02 13:55:30,259 com.nanhai.comparator.Test:41] 中
+[INFO  2016-07-02 13:55:30,259 com.nanhai.comparator.Test:41] 心
+[INFO  2016-07-02 13:55:30,259 com.nanhai.comparator.Test:41] 的
+[INFO  2016-07-02 13:55:30,259 com.nanhai.comparator.Test:41] 中
+[INFO  2016-07-02 13:55:30,259 com.nanhai.comparator.Test:41] 原
+[INFO  2016-07-02 13:55:30,259 com.nanhai.comparator.Test:41] 地
+[INFO  2016-07-02 13:55:30,259 com.nanhai.comparator.Test:41] 区
+[INFO  2016-07-02 13:55:30,259 com.nanhai.comparator.Test:41] ，
+[INFO  2016-07-02 13:55:30,259 com.nanhai.comparator.Test:41] 现
+[INFO  2016-07-02 13:55:30,259 com.nanhai.comparator.Test:41] 今
+[INFO  2016-07-02 13:55:30,259 com.nanhai.comparator.Test:41] 在
+[INFO  2016-07-02 13:55:30,259 com.nanhai.comparator.Test:41] 习
+[INFO  2016-07-02 13:55:30,259 com.nanhai.comparator.Test:41] 惯
+[INFO  2016-07-02 13:55:30,259 com.nanhai.comparator.Test:41] 上
+[INFO  2016-07-02 13:55:30,259 com.nanhai.comparator.Test:41] 多
+[INFO  2016-07-02 13:55:30,260 com.nanhai.comparator.Test:41] 指
+[INFO  2016-07-02 13:55:30,260 com.nanhai.comparator.Test:41] 中
+[INFO  2016-07-02 13:55:30,260 com.nanhai.comparator.Test:41] 华
+[INFO  2016-07-02 13:55:30,260 com.nanhai.comparator.Test:41] 人
+[INFO  2016-07-02 13:55:30,260 com.nanhai.comparator.Test:41] 民
+[INFO  2016-07-02 13:55:30,260 com.nanhai.comparator.Test:41] 共
+[INFO  2016-07-02 13:55:30,260 com.nanhai.comparator.Test:41] 和
+[INFO  2016-07-02 13:55:30,260 com.nanhai.comparator.Test:41] 国
+[INFO  2016-07-02 13:55:30,260 com.nanhai.comparator.Test:41] 政
+[INFO  2016-07-02 13:55:30,260 com.nanhai.comparator.Test:41] 权
+[INFO  2016-07-02 13:55:30,260 com.nanhai.comparator.Test:38] 中国一词，最早见于西周，
+[INFO  2016-07-02 13:55:30,260 com.nanhai.comparator.Test:41] 中
+[INFO  2016-07-02 13:55:30,260 com.nanhai.comparator.Test:41] 国
+[INFO  2016-07-02 13:55:30,260 com.nanhai.comparator.Test:41] 一
+[INFO  2016-07-02 13:55:30,260 com.nanhai.comparator.Test:41] 词
+[INFO  2016-07-02 13:55:30,260 com.nanhai.comparator.Test:41] ，
+[INFO  2016-07-02 13:55:30,261 com.nanhai.comparator.Test:41] 最
+[INFO  2016-07-02 13:55:30,261 com.nanhai.comparator.Test:41] 早
+[INFO  2016-07-02 13:55:30,261 com.nanhai.comparator.Test:41] 见
+[INFO  2016-07-02 13:55:30,261 com.nanhai.comparator.Test:41] 于
+[INFO  2016-07-02 13:55:30,261 com.nanhai.comparator.Test:41] 西
+[INFO  2016-07-02 13:55:30,261 com.nanhai.comparator.Test:41] 周
+[INFO  2016-07-02 13:55:30,261 com.nanhai.comparator.Test:41] ，
+[INFO  2016-07-02 13:55:30,261 com.nanhai.comparator.Test:38] 是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:55:30,261 com.nanhai.comparator.Test:41] 是
+[INFO  2016-07-02 13:55:30,261 com.nanhai.comparator.Test:41] 指
+[INFO  2016-07-02 13:55:30,261 com.nanhai.comparator.Test:41] 以
+[INFO  2016-07-02 13:55:30,261 com.nanhai.comparator.Test:41] 洛
+[INFO  2016-07-02 13:55:30,261 com.nanhai.comparator.Test:41] 阳
+[INFO  2016-07-02 13:55:30,261 com.nanhai.comparator.Test:41] 盆
+[INFO  2016-07-02 13:55:30,262 com.nanhai.comparator.Test:41] 地
+[INFO  2016-07-02 13:55:30,262 com.nanhai.comparator.Test:41] 为
+[INFO  2016-07-02 13:55:30,262 com.nanhai.comparator.Test:41] 中
+[INFO  2016-07-02 13:55:30,262 com.nanhai.comparator.Test:41] 心
+[INFO  2016-07-02 13:55:30,262 com.nanhai.comparator.Test:41] 的
+[INFO  2016-07-02 13:55:30,262 com.nanhai.comparator.Test:41] 中
+[INFO  2016-07-02 13:55:30,262 com.nanhai.comparator.Test:41] 原
+[INFO  2016-07-02 13:55:30,262 com.nanhai.comparator.Test:41] 地
+[INFO  2016-07-02 13:55:30,262 com.nanhai.comparator.Test:41] 区
+[INFO  2016-07-02 13:55:30,262 com.nanhai.comparator.Test:41] ，
+[INFO  2016-07-02 13:55:30,262 com.nanhai.comparator.Test:41] 现
+[INFO  2016-07-02 13:55:30,262 com.nanhai.comparator.Test:41] 今
+[INFO  2016-07-02 13:55:30,262 com.nanhai.comparator.Test:41] 在
+[INFO  2016-07-02 13:55:30,262 com.nanhai.comparator.Test:41] 习
+[INFO  2016-07-02 13:55:30,262 com.nanhai.comparator.Test:41] 惯
+[INFO  2016-07-02 13:55:30,262 com.nanhai.comparator.Test:41] 上
+[INFO  2016-07-02 13:55:30,262 com.nanhai.comparator.Test:41] 多
+[INFO  2016-07-02 13:55:30,262 com.nanhai.comparator.Test:41] 指
+[INFO  2016-07-02 13:55:30,262 com.nanhai.comparator.Test:41] 中
+[INFO  2016-07-02 13:55:30,262 com.nanhai.comparator.Test:41] 华
+[INFO  2016-07-02 13:55:30,262 com.nanhai.comparator.Test:41] 人
+[INFO  2016-07-02 13:55:30,263 com.nanhai.comparator.Test:41] 民
+[INFO  2016-07-02 13:55:30,263 com.nanhai.comparator.Test:41] 共
+[INFO  2016-07-02 13:55:30,263 com.nanhai.comparator.Test:41] 和
+[INFO  2016-07-02 13:55:30,263 com.nanhai.comparator.Test:41] 国
+[INFO  2016-07-02 13:55:30,263 com.nanhai.comparator.Test:41] 政
+[INFO  2016-07-02 13:55:30,263 com.nanhai.comparator.Test:41] 权
+[INFO  2016-07-02 13:55:30,263 com.nanhai.comparator.Test:34] high word is : 国
+[INFO  2016-07-02 13:55:30,263 com.nanhai.comparator.Test:34] high word is : 一
+[INFO  2016-07-02 13:55:30,263 com.nanhai.comparator.Test:34] high word is : 词
+[INFO  2016-07-02 13:55:30,263 com.nanhai.comparator.Test:34] high word is : 最
+[INFO  2016-07-02 13:55:30,263 com.nanhai.comparator.Test:34] high word is : 早
+[INFO  2016-07-02 13:55:30,263 com.nanhai.comparator.Test:34] high word is : 见
+[INFO  2016-07-02 13:55:30,263 com.nanhai.comparator.Test:34] high word is : 于
+[INFO  2016-07-02 13:55:30,263 com.nanhai.comparator.Test:34] high word is : 西
+[INFO  2016-07-02 13:55:30,263 com.nanhai.comparator.Test:34] high word is : 周
+[INFO  2016-07-02 13:55:30,263 com.nanhai.comparator.Test:61] high frequency is: 8
+[INFO  2016-07-02 13:58:10,672 com.nanhai.comparator.Test:17] test
+[INFO  2016-07-02 13:58:10,673 com.nanhai.comparator.Test:31] high word is : 中
+[INFO  2016-07-02 13:58:10,673 com.nanhai.comparator.Test:36] 中国一词，最早见于西周，是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:58:10,674 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,674 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,675 com.nanhai.comparator.Test:39] 一
+[INFO  2016-07-02 13:58:10,675 com.nanhai.comparator.Test:39] 词
+[INFO  2016-07-02 13:58:10,675 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,676 com.nanhai.comparator.Test:39] 最
+[INFO  2016-07-02 13:58:10,676 com.nanhai.comparator.Test:39] 早
+[INFO  2016-07-02 13:58:10,676 com.nanhai.comparator.Test:39] 见
+[INFO  2016-07-02 13:58:10,677 com.nanhai.comparator.Test:39] 于
+[INFO  2016-07-02 13:58:10,677 com.nanhai.comparator.Test:39] 西
+[INFO  2016-07-02 13:58:10,677 com.nanhai.comparator.Test:39] 周
+[INFO  2016-07-02 13:58:10,677 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,677 com.nanhai.comparator.Test:39] 是
+[INFO  2016-07-02 13:58:10,678 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,678 com.nanhai.comparator.Test:39] 以
+[INFO  2016-07-02 13:58:10,678 com.nanhai.comparator.Test:39] 洛
+[INFO  2016-07-02 13:58:10,678 com.nanhai.comparator.Test:39] 阳
+[INFO  2016-07-02 13:58:10,678 com.nanhai.comparator.Test:39] 盆
+[INFO  2016-07-02 13:58:10,678 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,678 com.nanhai.comparator.Test:39] 为
+[INFO  2016-07-02 13:58:10,678 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,678 com.nanhai.comparator.Test:39] 心
+[INFO  2016-07-02 13:58:10,678 com.nanhai.comparator.Test:39] 的
+[INFO  2016-07-02 13:58:10,679 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,679 com.nanhai.comparator.Test:39] 原
+[INFO  2016-07-02 13:58:10,679 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,679 com.nanhai.comparator.Test:39] 区
+[INFO  2016-07-02 13:58:10,679 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,679 com.nanhai.comparator.Test:39] 现
+[INFO  2016-07-02 13:58:10,679 com.nanhai.comparator.Test:39] 今
+[INFO  2016-07-02 13:58:10,679 com.nanhai.comparator.Test:39] 在
+[INFO  2016-07-02 13:58:10,679 com.nanhai.comparator.Test:39] 习
+[INFO  2016-07-02 13:58:10,679 com.nanhai.comparator.Test:39] 惯
+[INFO  2016-07-02 13:58:10,679 com.nanhai.comparator.Test:39] 上
+[INFO  2016-07-02 13:58:10,679 com.nanhai.comparator.Test:39] 多
+[INFO  2016-07-02 13:58:10,680 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,680 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,680 com.nanhai.comparator.Test:39] 华
+[INFO  2016-07-02 13:58:10,680 com.nanhai.comparator.Test:39] 人
+[INFO  2016-07-02 13:58:10,680 com.nanhai.comparator.Test:39] 民
+[INFO  2016-07-02 13:58:10,680 com.nanhai.comparator.Test:39] 共
+[INFO  2016-07-02 13:58:10,680 com.nanhai.comparator.Test:39] 和
+[INFO  2016-07-02 13:58:10,680 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,680 com.nanhai.comparator.Test:39] 政
+[INFO  2016-07-02 13:58:10,680 com.nanhai.comparator.Test:39] 权
+[INFO  2016-07-02 13:58:10,680 com.nanhai.comparator.Test:36] 中国一词，最早见于西周，
+[INFO  2016-07-02 13:58:10,680 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,680 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,680 com.nanhai.comparator.Test:39] 一
+[INFO  2016-07-02 13:58:10,680 com.nanhai.comparator.Test:39] 词
+[INFO  2016-07-02 13:58:10,680 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,681 com.nanhai.comparator.Test:39] 最
+[INFO  2016-07-02 13:58:10,681 com.nanhai.comparator.Test:39] 早
+[INFO  2016-07-02 13:58:10,681 com.nanhai.comparator.Test:39] 见
+[INFO  2016-07-02 13:58:10,681 com.nanhai.comparator.Test:39] 于
+[INFO  2016-07-02 13:58:10,681 com.nanhai.comparator.Test:39] 西
+[INFO  2016-07-02 13:58:10,681 com.nanhai.comparator.Test:39] 周
+[INFO  2016-07-02 13:58:10,681 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,681 com.nanhai.comparator.Test:36] 是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:58:10,681 com.nanhai.comparator.Test:39] 是
+[INFO  2016-07-02 13:58:10,681 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,681 com.nanhai.comparator.Test:39] 以
+[INFO  2016-07-02 13:58:10,681 com.nanhai.comparator.Test:39] 洛
+[INFO  2016-07-02 13:58:10,682 com.nanhai.comparator.Test:39] 阳
+[INFO  2016-07-02 13:58:10,682 com.nanhai.comparator.Test:39] 盆
+[INFO  2016-07-02 13:58:10,682 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,682 com.nanhai.comparator.Test:39] 为
+[INFO  2016-07-02 13:58:10,682 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,682 com.nanhai.comparator.Test:39] 心
+[INFO  2016-07-02 13:58:10,682 com.nanhai.comparator.Test:39] 的
+[INFO  2016-07-02 13:58:10,682 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,682 com.nanhai.comparator.Test:39] 原
+[INFO  2016-07-02 13:58:10,682 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,682 com.nanhai.comparator.Test:39] 区
+[INFO  2016-07-02 13:58:10,682 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,682 com.nanhai.comparator.Test:39] 现
+[INFO  2016-07-02 13:58:10,682 com.nanhai.comparator.Test:39] 今
+[INFO  2016-07-02 13:58:10,682 com.nanhai.comparator.Test:39] 在
+[INFO  2016-07-02 13:58:10,682 com.nanhai.comparator.Test:39] 习
+[INFO  2016-07-02 13:58:10,682 com.nanhai.comparator.Test:39] 惯
+[INFO  2016-07-02 13:58:10,682 com.nanhai.comparator.Test:39] 上
+[INFO  2016-07-02 13:58:10,682 com.nanhai.comparator.Test:39] 多
+[INFO  2016-07-02 13:58:10,682 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,683 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,683 com.nanhai.comparator.Test:39] 华
+[INFO  2016-07-02 13:58:10,683 com.nanhai.comparator.Test:39] 人
+[INFO  2016-07-02 13:58:10,683 com.nanhai.comparator.Test:39] 民
+[INFO  2016-07-02 13:58:10,683 com.nanhai.comparator.Test:39] 共
+[INFO  2016-07-02 13:58:10,683 com.nanhai.comparator.Test:39] 和
+[INFO  2016-07-02 13:58:10,683 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,683 com.nanhai.comparator.Test:39] 政
+[INFO  2016-07-02 13:58:10,683 com.nanhai.comparator.Test:39] 权
+[INFO  2016-07-02 13:58:10,683 com.nanhai.comparator.Test:31] high word is : 国
+[INFO  2016-07-02 13:58:10,683 com.nanhai.comparator.Test:36] 中国一词，最早见于西周，是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:58:10,683 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,683 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,683 com.nanhai.comparator.Test:39] 一
+[INFO  2016-07-02 13:58:10,684 com.nanhai.comparator.Test:39] 词
+[INFO  2016-07-02 13:58:10,684 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,684 com.nanhai.comparator.Test:39] 最
+[INFO  2016-07-02 13:58:10,684 com.nanhai.comparator.Test:39] 早
+[INFO  2016-07-02 13:58:10,684 com.nanhai.comparator.Test:39] 见
+[INFO  2016-07-02 13:58:10,684 com.nanhai.comparator.Test:39] 于
+[INFO  2016-07-02 13:58:10,684 com.nanhai.comparator.Test:39] 西
+[INFO  2016-07-02 13:58:10,684 com.nanhai.comparator.Test:39] 周
+[INFO  2016-07-02 13:58:10,684 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,684 com.nanhai.comparator.Test:39] 是
+[INFO  2016-07-02 13:58:10,684 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,684 com.nanhai.comparator.Test:39] 以
+[INFO  2016-07-02 13:58:10,684 com.nanhai.comparator.Test:39] 洛
+[INFO  2016-07-02 13:58:10,684 com.nanhai.comparator.Test:39] 阳
+[INFO  2016-07-02 13:58:10,684 com.nanhai.comparator.Test:39] 盆
+[INFO  2016-07-02 13:58:10,684 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,684 com.nanhai.comparator.Test:39] 为
+[INFO  2016-07-02 13:58:10,684 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,684 com.nanhai.comparator.Test:39] 心
+[INFO  2016-07-02 13:58:10,684 com.nanhai.comparator.Test:39] 的
+[INFO  2016-07-02 13:58:10,684 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,685 com.nanhai.comparator.Test:39] 原
+[INFO  2016-07-02 13:58:10,685 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,685 com.nanhai.comparator.Test:39] 区
+[INFO  2016-07-02 13:58:10,685 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,685 com.nanhai.comparator.Test:39] 现
+[INFO  2016-07-02 13:58:10,685 com.nanhai.comparator.Test:39] 今
+[INFO  2016-07-02 13:58:10,687 com.nanhai.comparator.Test:39] 在
+[INFO  2016-07-02 13:58:10,687 com.nanhai.comparator.Test:39] 习
+[INFO  2016-07-02 13:58:10,687 com.nanhai.comparator.Test:39] 惯
+[INFO  2016-07-02 13:58:10,687 com.nanhai.comparator.Test:39] 上
+[INFO  2016-07-02 13:58:10,687 com.nanhai.comparator.Test:39] 多
+[INFO  2016-07-02 13:58:10,687 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,687 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,687 com.nanhai.comparator.Test:39] 华
+[INFO  2016-07-02 13:58:10,687 com.nanhai.comparator.Test:39] 人
+[INFO  2016-07-02 13:58:10,687 com.nanhai.comparator.Test:39] 民
+[INFO  2016-07-02 13:58:10,688 com.nanhai.comparator.Test:39] 共
+[INFO  2016-07-02 13:58:10,688 com.nanhai.comparator.Test:39] 和
+[INFO  2016-07-02 13:58:10,688 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,688 com.nanhai.comparator.Test:39] 政
+[INFO  2016-07-02 13:58:10,688 com.nanhai.comparator.Test:39] 权
+[INFO  2016-07-02 13:58:10,688 com.nanhai.comparator.Test:36] 中国一词，最早见于西周，
+[INFO  2016-07-02 13:58:10,688 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,688 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,688 com.nanhai.comparator.Test:39] 一
+[INFO  2016-07-02 13:58:10,688 com.nanhai.comparator.Test:39] 词
+[INFO  2016-07-02 13:58:10,688 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,688 com.nanhai.comparator.Test:39] 最
+[INFO  2016-07-02 13:58:10,688 com.nanhai.comparator.Test:39] 早
+[INFO  2016-07-02 13:58:10,688 com.nanhai.comparator.Test:39] 见
+[INFO  2016-07-02 13:58:10,688 com.nanhai.comparator.Test:39] 于
+[INFO  2016-07-02 13:58:10,688 com.nanhai.comparator.Test:39] 西
+[INFO  2016-07-02 13:58:10,688 com.nanhai.comparator.Test:39] 周
+[INFO  2016-07-02 13:58:10,688 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,688 com.nanhai.comparator.Test:36] 是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:58:10,688 com.nanhai.comparator.Test:39] 是
+[INFO  2016-07-02 13:58:10,689 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,689 com.nanhai.comparator.Test:39] 以
+[INFO  2016-07-02 13:58:10,689 com.nanhai.comparator.Test:39] 洛
+[INFO  2016-07-02 13:58:10,689 com.nanhai.comparator.Test:39] 阳
+[INFO  2016-07-02 13:58:10,689 com.nanhai.comparator.Test:39] 盆
+[INFO  2016-07-02 13:58:10,689 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,689 com.nanhai.comparator.Test:39] 为
+[INFO  2016-07-02 13:58:10,689 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,689 com.nanhai.comparator.Test:39] 心
+[INFO  2016-07-02 13:58:10,689 com.nanhai.comparator.Test:39] 的
+[INFO  2016-07-02 13:58:10,689 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,689 com.nanhai.comparator.Test:39] 原
+[INFO  2016-07-02 13:58:10,689 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,689 com.nanhai.comparator.Test:39] 区
+[INFO  2016-07-02 13:58:10,689 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,689 com.nanhai.comparator.Test:39] 现
+[INFO  2016-07-02 13:58:10,689 com.nanhai.comparator.Test:39] 今
+[INFO  2016-07-02 13:58:10,689 com.nanhai.comparator.Test:39] 在
+[INFO  2016-07-02 13:58:10,689 com.nanhai.comparator.Test:39] 习
+[INFO  2016-07-02 13:58:10,689 com.nanhai.comparator.Test:39] 惯
+[INFO  2016-07-02 13:58:10,689 com.nanhai.comparator.Test:39] 上
+[INFO  2016-07-02 13:58:10,689 com.nanhai.comparator.Test:39] 多
+[INFO  2016-07-02 13:58:10,690 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,690 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,690 com.nanhai.comparator.Test:39] 华
+[INFO  2016-07-02 13:58:10,690 com.nanhai.comparator.Test:39] 人
+[INFO  2016-07-02 13:58:10,690 com.nanhai.comparator.Test:39] 民
+[INFO  2016-07-02 13:58:10,690 com.nanhai.comparator.Test:39] 共
+[INFO  2016-07-02 13:58:10,690 com.nanhai.comparator.Test:39] 和
+[INFO  2016-07-02 13:58:10,690 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,690 com.nanhai.comparator.Test:39] 政
+[INFO  2016-07-02 13:58:10,690 com.nanhai.comparator.Test:39] 权
+[INFO  2016-07-02 13:58:10,690 com.nanhai.comparator.Test:31] high word is : 一
+[INFO  2016-07-02 13:58:10,690 com.nanhai.comparator.Test:36] 中国一词，最早见于西周，是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:58:10,690 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,690 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,690 com.nanhai.comparator.Test:39] 一
+[INFO  2016-07-02 13:58:10,690 com.nanhai.comparator.Test:39] 词
+[INFO  2016-07-02 13:58:10,690 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,691 com.nanhai.comparator.Test:39] 最
+[INFO  2016-07-02 13:58:10,691 com.nanhai.comparator.Test:39] 早
+[INFO  2016-07-02 13:58:10,691 com.nanhai.comparator.Test:39] 见
+[INFO  2016-07-02 13:58:10,691 com.nanhai.comparator.Test:39] 于
+[INFO  2016-07-02 13:58:10,691 com.nanhai.comparator.Test:39] 西
+[INFO  2016-07-02 13:58:10,691 com.nanhai.comparator.Test:39] 周
+[INFO  2016-07-02 13:58:10,691 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,691 com.nanhai.comparator.Test:39] 是
+[INFO  2016-07-02 13:58:10,691 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,691 com.nanhai.comparator.Test:39] 以
+[INFO  2016-07-02 13:58:10,691 com.nanhai.comparator.Test:39] 洛
+[INFO  2016-07-02 13:58:10,691 com.nanhai.comparator.Test:39] 阳
+[INFO  2016-07-02 13:58:10,691 com.nanhai.comparator.Test:39] 盆
+[INFO  2016-07-02 13:58:10,691 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,691 com.nanhai.comparator.Test:39] 为
+[INFO  2016-07-02 13:58:10,691 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,691 com.nanhai.comparator.Test:39] 心
+[INFO  2016-07-02 13:58:10,691 com.nanhai.comparator.Test:39] 的
+[INFO  2016-07-02 13:58:10,691 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,691 com.nanhai.comparator.Test:39] 原
+[INFO  2016-07-02 13:58:10,691 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,691 com.nanhai.comparator.Test:39] 区
+[INFO  2016-07-02 13:58:10,691 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,691 com.nanhai.comparator.Test:39] 现
+[INFO  2016-07-02 13:58:10,691 com.nanhai.comparator.Test:39] 今
+[INFO  2016-07-02 13:58:10,691 com.nanhai.comparator.Test:39] 在
+[INFO  2016-07-02 13:58:10,691 com.nanhai.comparator.Test:39] 习
+[INFO  2016-07-02 13:58:10,691 com.nanhai.comparator.Test:39] 惯
+[INFO  2016-07-02 13:58:10,692 com.nanhai.comparator.Test:39] 上
+[INFO  2016-07-02 13:58:10,692 com.nanhai.comparator.Test:39] 多
+[INFO  2016-07-02 13:58:10,692 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,692 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,692 com.nanhai.comparator.Test:39] 华
+[INFO  2016-07-02 13:58:10,692 com.nanhai.comparator.Test:39] 人
+[INFO  2016-07-02 13:58:10,692 com.nanhai.comparator.Test:39] 民
+[INFO  2016-07-02 13:58:10,692 com.nanhai.comparator.Test:39] 共
+[INFO  2016-07-02 13:58:10,692 com.nanhai.comparator.Test:39] 和
+[INFO  2016-07-02 13:58:10,692 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,692 com.nanhai.comparator.Test:39] 政
+[INFO  2016-07-02 13:58:10,692 com.nanhai.comparator.Test:39] 权
+[INFO  2016-07-02 13:58:10,692 com.nanhai.comparator.Test:36] 中国一词，最早见于西周，
+[INFO  2016-07-02 13:58:10,692 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,692 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,692 com.nanhai.comparator.Test:39] 一
+[INFO  2016-07-02 13:58:10,692 com.nanhai.comparator.Test:39] 词
+[INFO  2016-07-02 13:58:10,692 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,692 com.nanhai.comparator.Test:39] 最
+[INFO  2016-07-02 13:58:10,692 com.nanhai.comparator.Test:39] 早
+[INFO  2016-07-02 13:58:10,692 com.nanhai.comparator.Test:39] 见
+[INFO  2016-07-02 13:58:10,692 com.nanhai.comparator.Test:39] 于
+[INFO  2016-07-02 13:58:10,692 com.nanhai.comparator.Test:39] 西
+[INFO  2016-07-02 13:58:10,692 com.nanhai.comparator.Test:39] 周
+[INFO  2016-07-02 13:58:10,692 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,692 com.nanhai.comparator.Test:36] 是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:58:10,693 com.nanhai.comparator.Test:39] 是
+[INFO  2016-07-02 13:58:10,693 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,693 com.nanhai.comparator.Test:39] 以
+[INFO  2016-07-02 13:58:10,693 com.nanhai.comparator.Test:39] 洛
+[INFO  2016-07-02 13:58:10,693 com.nanhai.comparator.Test:39] 阳
+[INFO  2016-07-02 13:58:10,693 com.nanhai.comparator.Test:39] 盆
+[INFO  2016-07-02 13:58:10,693 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,693 com.nanhai.comparator.Test:39] 为
+[INFO  2016-07-02 13:58:10,693 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,693 com.nanhai.comparator.Test:39] 心
+[INFO  2016-07-02 13:58:10,693 com.nanhai.comparator.Test:39] 的
+[INFO  2016-07-02 13:58:10,693 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,693 com.nanhai.comparator.Test:39] 原
+[INFO  2016-07-02 13:58:10,693 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,693 com.nanhai.comparator.Test:39] 区
+[INFO  2016-07-02 13:58:10,693 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,693 com.nanhai.comparator.Test:39] 现
+[INFO  2016-07-02 13:58:10,693 com.nanhai.comparator.Test:39] 今
+[INFO  2016-07-02 13:58:10,693 com.nanhai.comparator.Test:39] 在
+[INFO  2016-07-02 13:58:10,694 com.nanhai.comparator.Test:39] 习
+[INFO  2016-07-02 13:58:10,694 com.nanhai.comparator.Test:39] 惯
+[INFO  2016-07-02 13:58:10,694 com.nanhai.comparator.Test:39] 上
+[INFO  2016-07-02 13:58:10,694 com.nanhai.comparator.Test:39] 多
+[INFO  2016-07-02 13:58:10,694 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,694 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,694 com.nanhai.comparator.Test:39] 华
+[INFO  2016-07-02 13:58:10,694 com.nanhai.comparator.Test:39] 人
+[INFO  2016-07-02 13:58:10,694 com.nanhai.comparator.Test:39] 民
+[INFO  2016-07-02 13:58:10,694 com.nanhai.comparator.Test:39] 共
+[INFO  2016-07-02 13:58:10,694 com.nanhai.comparator.Test:39] 和
+[INFO  2016-07-02 13:58:10,694 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,694 com.nanhai.comparator.Test:39] 政
+[INFO  2016-07-02 13:58:10,694 com.nanhai.comparator.Test:39] 权
+[INFO  2016-07-02 13:58:10,694 com.nanhai.comparator.Test:31] high word is : 词
+[INFO  2016-07-02 13:58:10,694 com.nanhai.comparator.Test:36] 中国一词，最早见于西周，是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:58:10,694 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,694 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,694 com.nanhai.comparator.Test:39] 一
+[INFO  2016-07-02 13:58:10,694 com.nanhai.comparator.Test:39] 词
+[INFO  2016-07-02 13:58:10,694 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,694 com.nanhai.comparator.Test:39] 最
+[INFO  2016-07-02 13:58:10,694 com.nanhai.comparator.Test:39] 早
+[INFO  2016-07-02 13:58:10,694 com.nanhai.comparator.Test:39] 见
+[INFO  2016-07-02 13:58:10,694 com.nanhai.comparator.Test:39] 于
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 西
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 周
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 是
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 以
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 洛
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 阳
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 盆
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 为
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 心
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 的
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 原
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 区
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 现
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 今
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 在
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 习
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 惯
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 上
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 多
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 华
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 人
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 民
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 共
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 和
+[INFO  2016-07-02 13:58:10,695 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:39] 政
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:39] 权
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:36] 中国一词，最早见于西周，
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:39] 一
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:39] 词
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:39] 最
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:39] 早
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:39] 见
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:39] 于
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:39] 西
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:39] 周
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:36] 是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:39] 是
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:39] 以
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:39] 洛
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:39] 阳
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:39] 盆
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:39] 为
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:39] 心
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:39] 的
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:39] 原
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:39] 区
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,696 com.nanhai.comparator.Test:39] 现
+[INFO  2016-07-02 13:58:10,697 com.nanhai.comparator.Test:39] 今
+[INFO  2016-07-02 13:58:10,697 com.nanhai.comparator.Test:39] 在
+[INFO  2016-07-02 13:58:10,697 com.nanhai.comparator.Test:39] 习
+[INFO  2016-07-02 13:58:10,697 com.nanhai.comparator.Test:39] 惯
+[INFO  2016-07-02 13:58:10,697 com.nanhai.comparator.Test:39] 上
+[INFO  2016-07-02 13:58:10,697 com.nanhai.comparator.Test:39] 多
+[INFO  2016-07-02 13:58:10,697 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,697 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,697 com.nanhai.comparator.Test:39] 华
+[INFO  2016-07-02 13:58:10,697 com.nanhai.comparator.Test:39] 人
+[INFO  2016-07-02 13:58:10,697 com.nanhai.comparator.Test:39] 民
+[INFO  2016-07-02 13:58:10,697 com.nanhai.comparator.Test:39] 共
+[INFO  2016-07-02 13:58:10,697 com.nanhai.comparator.Test:39] 和
+[INFO  2016-07-02 13:58:10,697 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,697 com.nanhai.comparator.Test:39] 政
+[INFO  2016-07-02 13:58:10,697 com.nanhai.comparator.Test:39] 权
+[INFO  2016-07-02 13:58:10,697 com.nanhai.comparator.Test:31] high word is : 最
+[INFO  2016-07-02 13:58:10,697 com.nanhai.comparator.Test:36] 中国一词，最早见于西周，是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:58:10,697 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,697 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,697 com.nanhai.comparator.Test:39] 一
+[INFO  2016-07-02 13:58:10,697 com.nanhai.comparator.Test:39] 词
+[INFO  2016-07-02 13:58:10,697 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,697 com.nanhai.comparator.Test:39] 最
+[INFO  2016-07-02 13:58:10,697 com.nanhai.comparator.Test:39] 早
+[INFO  2016-07-02 13:58:10,697 com.nanhai.comparator.Test:39] 见
+[INFO  2016-07-02 13:58:10,697 com.nanhai.comparator.Test:39] 于
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] 西
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] 周
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] 是
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] 以
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] 洛
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] 阳
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] 盆
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] 为
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] 心
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] 的
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] 原
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] 区
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] 现
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] 今
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] 在
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] 习
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] 惯
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] 上
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] 多
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] 华
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] 人
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] 民
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] 共
+[INFO  2016-07-02 13:58:10,698 com.nanhai.comparator.Test:39] 和
+[INFO  2016-07-02 13:58:10,699 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,699 com.nanhai.comparator.Test:39] 政
+[INFO  2016-07-02 13:58:10,699 com.nanhai.comparator.Test:39] 权
+[INFO  2016-07-02 13:58:10,699 com.nanhai.comparator.Test:36] 中国一词，最早见于西周，
+[INFO  2016-07-02 13:58:10,699 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,699 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,699 com.nanhai.comparator.Test:39] 一
+[INFO  2016-07-02 13:58:10,699 com.nanhai.comparator.Test:39] 词
+[INFO  2016-07-02 13:58:10,699 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,699 com.nanhai.comparator.Test:39] 最
+[INFO  2016-07-02 13:58:10,699 com.nanhai.comparator.Test:39] 早
+[INFO  2016-07-02 13:58:10,699 com.nanhai.comparator.Test:39] 见
+[INFO  2016-07-02 13:58:10,699 com.nanhai.comparator.Test:39] 于
+[INFO  2016-07-02 13:58:10,699 com.nanhai.comparator.Test:39] 西
+[INFO  2016-07-02 13:58:10,699 com.nanhai.comparator.Test:39] 周
+[INFO  2016-07-02 13:58:10,699 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,699 com.nanhai.comparator.Test:36] 是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:58:10,699 com.nanhai.comparator.Test:39] 是
+[INFO  2016-07-02 13:58:10,699 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,699 com.nanhai.comparator.Test:39] 以
+[INFO  2016-07-02 13:58:10,699 com.nanhai.comparator.Test:39] 洛
+[INFO  2016-07-02 13:58:10,699 com.nanhai.comparator.Test:39] 阳
+[INFO  2016-07-02 13:58:10,699 com.nanhai.comparator.Test:39] 盆
+[INFO  2016-07-02 13:58:10,699 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,700 com.nanhai.comparator.Test:39] 为
+[INFO  2016-07-02 13:58:10,700 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,700 com.nanhai.comparator.Test:39] 心
+[INFO  2016-07-02 13:58:10,700 com.nanhai.comparator.Test:39] 的
+[INFO  2016-07-02 13:58:10,700 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,700 com.nanhai.comparator.Test:39] 原
+[INFO  2016-07-02 13:58:10,700 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,700 com.nanhai.comparator.Test:39] 区
+[INFO  2016-07-02 13:58:10,700 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,700 com.nanhai.comparator.Test:39] 现
+[INFO  2016-07-02 13:58:10,700 com.nanhai.comparator.Test:39] 今
+[INFO  2016-07-02 13:58:10,700 com.nanhai.comparator.Test:39] 在
+[INFO  2016-07-02 13:58:10,700 com.nanhai.comparator.Test:39] 习
+[INFO  2016-07-02 13:58:10,711 com.nanhai.comparator.Test:39] 惯
+[INFO  2016-07-02 13:58:10,711 com.nanhai.comparator.Test:39] 上
+[INFO  2016-07-02 13:58:10,711 com.nanhai.comparator.Test:39] 多
+[INFO  2016-07-02 13:58:10,714 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,714 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,714 com.nanhai.comparator.Test:39] 华
+[INFO  2016-07-02 13:58:10,714 com.nanhai.comparator.Test:39] 人
+[INFO  2016-07-02 13:58:10,715 com.nanhai.comparator.Test:39] 民
+[INFO  2016-07-02 13:58:10,715 com.nanhai.comparator.Test:39] 共
+[INFO  2016-07-02 13:58:10,715 com.nanhai.comparator.Test:39] 和
+[INFO  2016-07-02 13:58:10,715 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,715 com.nanhai.comparator.Test:39] 政
+[INFO  2016-07-02 13:58:10,715 com.nanhai.comparator.Test:39] 权
+[INFO  2016-07-02 13:58:10,715 com.nanhai.comparator.Test:31] high word is : 早
+[INFO  2016-07-02 13:58:10,715 com.nanhai.comparator.Test:36] 中国一词，最早见于西周，是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:58:10,715 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,715 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,715 com.nanhai.comparator.Test:39] 一
+[INFO  2016-07-02 13:58:10,715 com.nanhai.comparator.Test:39] 词
+[INFO  2016-07-02 13:58:10,715 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,715 com.nanhai.comparator.Test:39] 最
+[INFO  2016-07-02 13:58:10,715 com.nanhai.comparator.Test:39] 早
+[INFO  2016-07-02 13:58:10,715 com.nanhai.comparator.Test:39] 见
+[INFO  2016-07-02 13:58:10,715 com.nanhai.comparator.Test:39] 于
+[INFO  2016-07-02 13:58:10,715 com.nanhai.comparator.Test:39] 西
+[INFO  2016-07-02 13:58:10,715 com.nanhai.comparator.Test:39] 周
+[INFO  2016-07-02 13:58:10,715 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,715 com.nanhai.comparator.Test:39] 是
+[INFO  2016-07-02 13:58:10,715 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,715 com.nanhai.comparator.Test:39] 以
+[INFO  2016-07-02 13:58:10,715 com.nanhai.comparator.Test:39] 洛
+[INFO  2016-07-02 13:58:10,715 com.nanhai.comparator.Test:39] 阳
+[INFO  2016-07-02 13:58:10,715 com.nanhai.comparator.Test:39] 盆
+[INFO  2016-07-02 13:58:10,715 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,716 com.nanhai.comparator.Test:39] 为
+[INFO  2016-07-02 13:58:10,716 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,716 com.nanhai.comparator.Test:39] 心
+[INFO  2016-07-02 13:58:10,716 com.nanhai.comparator.Test:39] 的
+[INFO  2016-07-02 13:58:10,716 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,716 com.nanhai.comparator.Test:39] 原
+[INFO  2016-07-02 13:58:10,716 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,716 com.nanhai.comparator.Test:39] 区
+[INFO  2016-07-02 13:58:10,716 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,716 com.nanhai.comparator.Test:39] 现
+[INFO  2016-07-02 13:58:10,716 com.nanhai.comparator.Test:39] 今
+[INFO  2016-07-02 13:58:10,716 com.nanhai.comparator.Test:39] 在
+[INFO  2016-07-02 13:58:10,716 com.nanhai.comparator.Test:39] 习
+[INFO  2016-07-02 13:58:10,716 com.nanhai.comparator.Test:39] 惯
+[INFO  2016-07-02 13:58:10,716 com.nanhai.comparator.Test:39] 上
+[INFO  2016-07-02 13:58:10,716 com.nanhai.comparator.Test:39] 多
+[INFO  2016-07-02 13:58:10,716 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,716 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,716 com.nanhai.comparator.Test:39] 华
+[INFO  2016-07-02 13:58:10,716 com.nanhai.comparator.Test:39] 人
+[INFO  2016-07-02 13:58:10,716 com.nanhai.comparator.Test:39] 民
+[INFO  2016-07-02 13:58:10,716 com.nanhai.comparator.Test:39] 共
+[INFO  2016-07-02 13:58:10,716 com.nanhai.comparator.Test:39] 和
+[INFO  2016-07-02 13:58:10,716 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,716 com.nanhai.comparator.Test:39] 政
+[INFO  2016-07-02 13:58:10,716 com.nanhai.comparator.Test:39] 权
+[INFO  2016-07-02 13:58:10,716 com.nanhai.comparator.Test:36] 中国一词，最早见于西周，
+[INFO  2016-07-02 13:58:10,716 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,716 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,716 com.nanhai.comparator.Test:39] 一
+[INFO  2016-07-02 13:58:10,716 com.nanhai.comparator.Test:39] 词
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 最
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 早
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 见
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 于
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 西
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 周
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:36] 是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 是
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 以
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 洛
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 阳
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 盆
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 为
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 心
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 的
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 原
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 区
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 现
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 今
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 在
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 习
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 惯
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 上
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 多
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 华
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 人
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 民
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 共
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 和
+[INFO  2016-07-02 13:58:10,717 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,718 com.nanhai.comparator.Test:39] 政
+[INFO  2016-07-02 13:58:10,718 com.nanhai.comparator.Test:39] 权
+[INFO  2016-07-02 13:58:10,718 com.nanhai.comparator.Test:31] high word is : 见
+[INFO  2016-07-02 13:58:10,718 com.nanhai.comparator.Test:36] 中国一词，最早见于西周，是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:58:10,718 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,718 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,718 com.nanhai.comparator.Test:39] 一
+[INFO  2016-07-02 13:58:10,718 com.nanhai.comparator.Test:39] 词
+[INFO  2016-07-02 13:58:10,741 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 最
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 早
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 见
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 于
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 西
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 周
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 是
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 以
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 洛
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 阳
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 盆
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 为
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 心
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 的
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 原
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 区
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 现
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 今
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 在
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 习
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 惯
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 上
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 多
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 华
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 人
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 民
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 共
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 和
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 政
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:39] 权
+[INFO  2016-07-02 13:58:10,742 com.nanhai.comparator.Test:36] 中国一词，最早见于西周，
+[INFO  2016-07-02 13:58:10,743 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,743 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,743 com.nanhai.comparator.Test:39] 一
+[INFO  2016-07-02 13:58:10,743 com.nanhai.comparator.Test:39] 词
+[INFO  2016-07-02 13:58:10,743 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,743 com.nanhai.comparator.Test:39] 最
+[INFO  2016-07-02 13:58:10,743 com.nanhai.comparator.Test:39] 早
+[INFO  2016-07-02 13:58:10,743 com.nanhai.comparator.Test:39] 见
+[INFO  2016-07-02 13:58:10,743 com.nanhai.comparator.Test:39] 于
+[INFO  2016-07-02 13:58:10,743 com.nanhai.comparator.Test:39] 西
+[INFO  2016-07-02 13:58:10,743 com.nanhai.comparator.Test:39] 周
+[INFO  2016-07-02 13:58:10,743 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,743 com.nanhai.comparator.Test:36] 是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:58:10,743 com.nanhai.comparator.Test:39] 是
+[INFO  2016-07-02 13:58:10,743 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,743 com.nanhai.comparator.Test:39] 以
+[INFO  2016-07-02 13:58:10,743 com.nanhai.comparator.Test:39] 洛
+[INFO  2016-07-02 13:58:10,743 com.nanhai.comparator.Test:39] 阳
+[INFO  2016-07-02 13:58:10,743 com.nanhai.comparator.Test:39] 盆
+[INFO  2016-07-02 13:58:10,755 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,755 com.nanhai.comparator.Test:39] 为
+[INFO  2016-07-02 13:58:10,755 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,755 com.nanhai.comparator.Test:39] 心
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 的
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 原
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 区
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 现
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 今
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 在
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 习
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 惯
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 上
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 多
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 华
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 人
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 民
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 共
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 和
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 政
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 权
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:31] high word is : 于
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:36] 中国一词，最早见于西周，是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 一
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 词
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 最
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 早
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 见
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 于
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 西
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 周
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 是
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 以
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 洛
+[INFO  2016-07-02 13:58:10,756 com.nanhai.comparator.Test:39] 阳
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 盆
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 为
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 心
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 的
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 原
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 区
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 现
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 今
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 在
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 习
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 惯
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 上
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 多
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 华
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 人
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 民
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 共
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 和
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 政
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 权
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:36] 中国一词，最早见于西周，
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 一
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 词
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 最
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 早
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 见
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 于
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 西
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 周
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:36] 是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 是
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 以
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 洛
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 阳
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 盆
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 为
+[INFO  2016-07-02 13:58:10,757 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,758 com.nanhai.comparator.Test:39] 心
+[INFO  2016-07-02 13:58:10,758 com.nanhai.comparator.Test:39] 的
+[INFO  2016-07-02 13:58:10,758 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,758 com.nanhai.comparator.Test:39] 原
+[INFO  2016-07-02 13:58:10,758 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,758 com.nanhai.comparator.Test:39] 区
+[INFO  2016-07-02 13:58:10,758 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,758 com.nanhai.comparator.Test:39] 现
+[INFO  2016-07-02 13:58:10,758 com.nanhai.comparator.Test:39] 今
+[INFO  2016-07-02 13:58:10,758 com.nanhai.comparator.Test:39] 在
+[INFO  2016-07-02 13:58:10,758 com.nanhai.comparator.Test:39] 习
+[INFO  2016-07-02 13:58:10,758 com.nanhai.comparator.Test:39] 惯
+[INFO  2016-07-02 13:58:10,758 com.nanhai.comparator.Test:39] 上
+[INFO  2016-07-02 13:58:10,758 com.nanhai.comparator.Test:39] 多
+[INFO  2016-07-02 13:58:10,758 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,758 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,758 com.nanhai.comparator.Test:39] 华
+[INFO  2016-07-02 13:58:10,758 com.nanhai.comparator.Test:39] 人
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 民
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 共
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 和
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 政
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 权
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:31] high word is : 西
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:36] 中国一词，最早见于西周，是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 一
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 词
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 最
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 早
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 见
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 于
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 西
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 周
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 是
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 以
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 洛
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 阳
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 盆
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 为
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 心
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 的
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 原
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 区
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 现
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 今
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 在
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 习
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 惯
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 上
+[INFO  2016-07-02 13:58:10,772 com.nanhai.comparator.Test:39] 多
+[INFO  2016-07-02 13:58:10,773 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,773 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,773 com.nanhai.comparator.Test:39] 华
+[INFO  2016-07-02 13:58:10,773 com.nanhai.comparator.Test:39] 人
+[INFO  2016-07-02 13:58:10,773 com.nanhai.comparator.Test:39] 民
+[INFO  2016-07-02 13:58:10,773 com.nanhai.comparator.Test:39] 共
+[INFO  2016-07-02 13:58:10,773 com.nanhai.comparator.Test:39] 和
+[INFO  2016-07-02 13:58:10,773 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,773 com.nanhai.comparator.Test:39] 政
+[INFO  2016-07-02 13:58:10,773 com.nanhai.comparator.Test:39] 权
+[INFO  2016-07-02 13:58:10,773 com.nanhai.comparator.Test:36] 中国一词，最早见于西周，
+[INFO  2016-07-02 13:58:10,773 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,773 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,773 com.nanhai.comparator.Test:39] 一
+[INFO  2016-07-02 13:58:10,773 com.nanhai.comparator.Test:39] 词
+[INFO  2016-07-02 13:58:10,773 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,773 com.nanhai.comparator.Test:39] 最
+[INFO  2016-07-02 13:58:10,773 com.nanhai.comparator.Test:39] 早
+[INFO  2016-07-02 13:58:10,785 com.nanhai.comparator.Test:39] 见
+[INFO  2016-07-02 13:58:10,785 com.nanhai.comparator.Test:39] 于
+[INFO  2016-07-02 13:58:10,785 com.nanhai.comparator.Test:39] 西
+[INFO  2016-07-02 13:58:10,785 com.nanhai.comparator.Test:39] 周
+[INFO  2016-07-02 13:58:10,785 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,785 com.nanhai.comparator.Test:36] 是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:58:10,785 com.nanhai.comparator.Test:39] 是
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 以
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 洛
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 阳
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 盆
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 为
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 心
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 的
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 原
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 区
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 现
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 今
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 在
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 习
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 惯
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 上
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 多
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 华
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 人
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 民
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 共
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 和
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 政
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 权
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:31] high word is : 周
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:36] 中国一词，最早见于西周，是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 一
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 词
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 最
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 早
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 见
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 于
+[INFO  2016-07-02 13:58:10,786 com.nanhai.comparator.Test:39] 西
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 周
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 是
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 以
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 洛
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 阳
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 盆
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 为
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 心
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 的
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 原
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 区
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 现
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 今
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 在
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 习
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 惯
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 上
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 多
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 华
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 人
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 民
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 共
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 和
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 政
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 权
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:36] 中国一词，最早见于西周，
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 一
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 词
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 最
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 早
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 见
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 于
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 西
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] 周
+[INFO  2016-07-02 13:58:10,787 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,788 com.nanhai.comparator.Test:36] 是指以洛阳盆地为中心的中原地区，现今在习惯上多指中华人民共和国政权
+[INFO  2016-07-02 13:58:10,788 com.nanhai.comparator.Test:39] 是
+[INFO  2016-07-02 13:58:10,788 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,788 com.nanhai.comparator.Test:39] 以
+[INFO  2016-07-02 13:58:10,788 com.nanhai.comparator.Test:39] 洛
+[INFO  2016-07-02 13:58:10,788 com.nanhai.comparator.Test:39] 阳
+[INFO  2016-07-02 13:58:10,788 com.nanhai.comparator.Test:39] 盆
+[INFO  2016-07-02 13:58:10,788 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,788 com.nanhai.comparator.Test:39] 为
+[INFO  2016-07-02 13:58:10,788 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,788 com.nanhai.comparator.Test:39] 心
+[INFO  2016-07-02 13:58:10,788 com.nanhai.comparator.Test:39] 的
+[INFO  2016-07-02 13:58:10,788 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,788 com.nanhai.comparator.Test:39] 原
+[INFO  2016-07-02 13:58:10,788 com.nanhai.comparator.Test:39] 地
+[INFO  2016-07-02 13:58:10,788 com.nanhai.comparator.Test:39] 区
+[INFO  2016-07-02 13:58:10,788 com.nanhai.comparator.Test:39] ，
+[INFO  2016-07-02 13:58:10,788 com.nanhai.comparator.Test:39] 现
+[INFO  2016-07-02 13:58:10,788 com.nanhai.comparator.Test:39] 今
+[INFO  2016-07-02 13:58:10,788 com.nanhai.comparator.Test:39] 在
+[INFO  2016-07-02 13:58:10,788 com.nanhai.comparator.Test:39] 习
+[INFO  2016-07-02 13:58:10,803 com.nanhai.comparator.Test:39] 惯
+[INFO  2016-07-02 13:58:10,803 com.nanhai.comparator.Test:39] 上
+[INFO  2016-07-02 13:58:10,803 com.nanhai.comparator.Test:39] 多
+[INFO  2016-07-02 13:58:10,803 com.nanhai.comparator.Test:39] 指
+[INFO  2016-07-02 13:58:10,803 com.nanhai.comparator.Test:39] 中
+[INFO  2016-07-02 13:58:10,803 com.nanhai.comparator.Test:39] 华
+[INFO  2016-07-02 13:58:10,803 com.nanhai.comparator.Test:39] 人
+[INFO  2016-07-02 13:58:10,803 com.nanhai.comparator.Test:39] 民
+[INFO  2016-07-02 13:58:10,803 com.nanhai.comparator.Test:39] 共
+[INFO  2016-07-02 13:58:10,803 com.nanhai.comparator.Test:39] 和
+[INFO  2016-07-02 13:58:10,803 com.nanhai.comparator.Test:39] 国
+[INFO  2016-07-02 13:58:10,803 com.nanhai.comparator.Test:39] 政
+[INFO  2016-07-02 13:58:10,803 com.nanhai.comparator.Test:39] 权
+[INFO  2016-07-02 13:58:10,803 com.nanhai.comparator.Test:59] high frequency is: 28
+[INFO  2016-07-02 14:22:24,189 com.nanhai.comparator.Test:17] test
+[INFO  2016-07-02 14:22:24,191 com.nanhai.comparator.Test:36]  word is : 中
+[INFO  2016-07-02 14:22:24,192 com.nanhai.comparator.Test:49] found the word in high frequency中
+[INFO  2016-07-02 14:22:24,192 com.nanhai.comparator.Test:36]  word is : 国
+[INFO  2016-07-02 14:22:24,192 com.nanhai.comparator.Test:49] found the word in high frequency国
+[INFO  2016-07-02 14:22:24,192 com.nanhai.comparator.Test:36]  word is : 一
+[INFO  2016-07-02 14:22:24,192 com.nanhai.comparator.Test:49] found the word in high frequency一
+[INFO  2016-07-02 14:22:24,192 com.nanhai.comparator.Test:36]  word is : 词
+[INFO  2016-07-02 14:22:24,193 com.nanhai.comparator.Test:49] found the word in high frequency词
+[INFO  2016-07-02 14:22:24,193 com.nanhai.comparator.Test:36]  word is : ，
+[INFO  2016-07-02 14:22:24,193 com.nanhai.comparator.Test:36]  word is : 最
+[INFO  2016-07-02 14:22:24,194 com.nanhai.comparator.Test:49] found the word in high frequency最
+[INFO  2016-07-02 14:22:24,194 com.nanhai.comparator.Test:36]  word is : 早
+[INFO  2016-07-02 14:22:24,194 com.nanhai.comparator.Test:49] found the word in high frequency早
+[INFO  2016-07-02 14:22:24,194 com.nanhai.comparator.Test:36]  word is : 见
+[INFO  2016-07-02 14:22:24,194 com.nanhai.comparator.Test:49] found the word in high frequency见
+[INFO  2016-07-02 14:22:24,195 com.nanhai.comparator.Test:36]  word is : 于
+[INFO  2016-07-02 14:22:24,195 com.nanhai.comparator.Test:49] found the word in high frequency于
+[INFO  2016-07-02 14:22:24,195 com.nanhai.comparator.Test:36]  word is : 西
+[INFO  2016-07-02 14:22:24,196 com.nanhai.comparator.Test:49] found the word in high frequency西
+[INFO  2016-07-02 14:22:24,196 com.nanhai.comparator.Test:36]  word is : 周
+[INFO  2016-07-02 14:22:24,196 com.nanhai.comparator.Test:49] found the word in high frequency周
+[INFO  2016-07-02 14:22:24,196 com.nanhai.comparator.Test:36]  word is : ，
+[INFO  2016-07-02 14:22:24,196 com.nanhai.comparator.Test:36]  word is : 是
+[INFO  2016-07-02 14:22:24,196 com.nanhai.comparator.Test:36]  word is : 指
+[INFO  2016-07-02 14:22:24,196 com.nanhai.comparator.Test:36]  word is : 以
+[INFO  2016-07-02 14:22:24,196 com.nanhai.comparator.Test:36]  word is : 洛
+[INFO  2016-07-02 14:22:24,197 com.nanhai.comparator.Test:36]  word is : 阳
+[INFO  2016-07-02 14:22:24,197 com.nanhai.comparator.Test:36]  word is : 盆
+[INFO  2016-07-02 14:22:24,197 com.nanhai.comparator.Test:36]  word is : 地
+[INFO  2016-07-02 14:22:24,197 com.nanhai.comparator.Test:36]  word is : 为
+[INFO  2016-07-02 14:22:24,197 com.nanhai.comparator.Test:36]  word is : 中
+[INFO  2016-07-02 14:22:24,197 com.nanhai.comparator.Test:49] found the word in high frequency中
+[INFO  2016-07-02 14:22:24,197 com.nanhai.comparator.Test:36]  word is : 心
+[INFO  2016-07-02 14:22:24,197 com.nanhai.comparator.Test:36]  word is : 的
+[INFO  2016-07-02 14:22:24,198 com.nanhai.comparator.Test:36]  word is : 中
+[INFO  2016-07-02 14:22:24,198 com.nanhai.comparator.Test:49] found the word in high frequency中
+[INFO  2016-07-02 14:22:24,198 com.nanhai.comparator.Test:36]  word is : 原
+[INFO  2016-07-02 14:22:24,198 com.nanhai.comparator.Test:36]  word is : 地
+[INFO  2016-07-02 14:22:24,198 com.nanhai.comparator.Test:36]  word is : 区
+[INFO  2016-07-02 14:22:24,198 com.nanhai.comparator.Test:36]  word is : ，
+[INFO  2016-07-02 14:22:24,198 com.nanhai.comparator.Test:36]  word is : 现
+[INFO  2016-07-02 14:22:24,198 com.nanhai.comparator.Test:36]  word is : 今
+[INFO  2016-07-02 14:22:24,198 com.nanhai.comparator.Test:36]  word is : 在
+[INFO  2016-07-02 14:22:24,199 com.nanhai.comparator.Test:36]  word is : 习
+[INFO  2016-07-02 14:22:24,199 com.nanhai.comparator.Test:36]  word is : 惯
+[INFO  2016-07-02 14:22:24,199 com.nanhai.comparator.Test:36]  word is : 上
+[INFO  2016-07-02 14:22:24,199 com.nanhai.comparator.Test:36]  word is : 多
+[INFO  2016-07-02 14:22:24,199 com.nanhai.comparator.Test:36]  word is : 指
+[INFO  2016-07-02 14:22:24,199 com.nanhai.comparator.Test:36]  word is : 中
+[INFO  2016-07-02 14:22:24,199 com.nanhai.comparator.Test:49] found the word in high frequency中
+[INFO  2016-07-02 14:22:24,199 com.nanhai.comparator.Test:36]  word is : 华
+[INFO  2016-07-02 14:22:24,199 com.nanhai.comparator.Test:36]  word is : 人
+[INFO  2016-07-02 14:22:24,199 com.nanhai.comparator.Test:36]  word is : 民
+[INFO  2016-07-02 14:22:24,200 com.nanhai.comparator.Test:36]  word is : 共
+[INFO  2016-07-02 14:22:24,200 com.nanhai.comparator.Test:36]  word is : 和
+[INFO  2016-07-02 14:22:24,200 com.nanhai.comparator.Test:36]  word is : 国
+[INFO  2016-07-02 14:22:24,200 com.nanhai.comparator.Test:49] found the word in high frequency国
+[INFO  2016-07-02 14:22:24,200 com.nanhai.comparator.Test:36]  word is : 政
+[INFO  2016-07-02 14:22:24,200 com.nanhai.comparator.Test:36]  word is : 权
+[INFO  2016-07-02 14:22:24,200 com.nanhai.comparator.Test:36]  word is : 中
+[INFO  2016-07-02 14:22:24,200 com.nanhai.comparator.Test:49] found the word in high frequency中
+[INFO  2016-07-02 14:22:24,200 com.nanhai.comparator.Test:36]  word is : 国
+[INFO  2016-07-02 14:22:24,200 com.nanhai.comparator.Test:49] found the word in high frequency国
+[INFO  2016-07-02 14:22:24,201 com.nanhai.comparator.Test:36]  word is : 一
+[INFO  2016-07-02 14:22:24,201 com.nanhai.comparator.Test:49] found the word in high frequency一
+[INFO  2016-07-02 14:22:24,201 com.nanhai.comparator.Test:36]  word is : 词
+[INFO  2016-07-02 14:22:24,201 com.nanhai.comparator.Test:49] found the word in high frequency词
+[INFO  2016-07-02 14:22:24,201 com.nanhai.comparator.Test:36]  word is : ，
+[INFO  2016-07-02 14:22:24,201 com.nanhai.comparator.Test:36]  word is : 最
+[INFO  2016-07-02 14:22:24,201 com.nanhai.comparator.Test:49] found the word in high frequency最
+[INFO  2016-07-02 14:22:24,201 com.nanhai.comparator.Test:36]  word is : 早
+[INFO  2016-07-02 14:22:24,201 com.nanhai.comparator.Test:49] found the word in high frequency早
+[INFO  2016-07-02 14:22:24,201 com.nanhai.comparator.Test:36]  word is : 见
+[INFO  2016-07-02 14:22:24,201 com.nanhai.comparator.Test:49] found the word in high frequency见
+[INFO  2016-07-02 14:22:24,201 com.nanhai.comparator.Test:36]  word is : 于
+[INFO  2016-07-02 14:22:24,201 com.nanhai.comparator.Test:49] found the word in high frequency于
+[INFO  2016-07-02 14:22:24,202 com.nanhai.comparator.Test:36]  word is : 西
+[INFO  2016-07-02 14:22:24,202 com.nanhai.comparator.Test:49] found the word in high frequency西
+[INFO  2016-07-02 14:22:24,202 com.nanhai.comparator.Test:36]  word is : 周
+[INFO  2016-07-02 14:22:24,202 com.nanhai.comparator.Test:49] found the word in high frequency周
+[INFO  2016-07-02 14:22:24,202 com.nanhai.comparator.Test:36]  word is : ，
+[INFO  2016-07-02 14:22:24,202 com.nanhai.comparator.Test:36]  word is : 是
+[INFO  2016-07-02 14:22:24,202 com.nanhai.comparator.Test:36]  word is : 指
+[INFO  2016-07-02 14:22:24,202 com.nanhai.comparator.Test:36]  word is : 以
+[INFO  2016-07-02 14:22:24,202 com.nanhai.comparator.Test:36]  word is : 洛
+[INFO  2016-07-02 14:22:24,202 com.nanhai.comparator.Test:36]  word is : 阳
+[INFO  2016-07-02 14:22:24,203 com.nanhai.comparator.Test:36]  word is : 盆
+[INFO  2016-07-02 14:22:24,203 com.nanhai.comparator.Test:36]  word is : 地
+[INFO  2016-07-02 14:22:24,203 com.nanhai.comparator.Test:36]  word is : 为
+[INFO  2016-07-02 14:22:24,203 com.nanhai.comparator.Test:36]  word is : 中
+[INFO  2016-07-02 14:22:24,203 com.nanhai.comparator.Test:49] found the word in high frequency中
+[INFO  2016-07-02 14:22:24,203 com.nanhai.comparator.Test:36]  word is : 心
+[INFO  2016-07-02 14:22:24,203 com.nanhai.comparator.Test:36]  word is : 的
+[INFO  2016-07-02 14:22:24,203 com.nanhai.comparator.Test:36]  word is : 中
+[INFO  2016-07-02 14:22:24,203 com.nanhai.comparator.Test:49] found the word in high frequency中
+[INFO  2016-07-02 14:22:24,203 com.nanhai.comparator.Test:36]  word is : 原
+[INFO  2016-07-02 14:22:24,203 com.nanhai.comparator.Test:36]  word is : 地
+[INFO  2016-07-02 14:22:24,204 com.nanhai.comparator.Test:36]  word is : 区
+[INFO  2016-07-02 14:22:24,204 com.nanhai.comparator.Test:36]  word is : ，
+[INFO  2016-07-02 14:22:24,204 com.nanhai.comparator.Test:36]  word is : 现
+[INFO  2016-07-02 14:22:24,204 com.nanhai.comparator.Test:36]  word is : 今
+[INFO  2016-07-02 14:22:24,204 com.nanhai.comparator.Test:36]  word is : 在
+[INFO  2016-07-02 14:22:24,204 com.nanhai.comparator.Test:36]  word is : 习
+[INFO  2016-07-02 14:22:24,204 com.nanhai.comparator.Test:36]  word is : 惯
+[INFO  2016-07-02 14:22:24,204 com.nanhai.comparator.Test:36]  word is : 上
+[INFO  2016-07-02 14:22:24,204 com.nanhai.comparator.Test:36]  word is : 多
+[INFO  2016-07-02 14:22:24,204 com.nanhai.comparator.Test:36]  word is : 指
+[INFO  2016-07-02 14:22:24,204 com.nanhai.comparator.Test:36]  word is : 中
+[INFO  2016-07-02 14:22:24,205 com.nanhai.comparator.Test:49] found the word in high frequency中
+[INFO  2016-07-02 14:22:24,205 com.nanhai.comparator.Test:36]  word is : 华
+[INFO  2016-07-02 14:22:24,205 com.nanhai.comparator.Test:36]  word is : 人
+[INFO  2016-07-02 14:22:24,205 com.nanhai.comparator.Test:36]  word is : 民
+[INFO  2016-07-02 14:22:24,205 com.nanhai.comparator.Test:36]  word is : 共
+[INFO  2016-07-02 14:22:24,205 com.nanhai.comparator.Test:36]  word is : 和
+[INFO  2016-07-02 14:22:24,205 com.nanhai.comparator.Test:36]  word is : 国
+[INFO  2016-07-02 14:22:24,205 com.nanhai.comparator.Test:49] found the word in high frequency国
+[INFO  2016-07-02 14:22:24,205 com.nanhai.comparator.Test:36]  word is : 政
+[INFO  2016-07-02 14:22:24,205 com.nanhai.comparator.Test:36]  word is : 权
+[INFO  2016-07-02 14:22:24,205 com.nanhai.comparator.Test:58] high frequency is: 28
+[INFO  2016-07-02 14:22:24,205 com.nanhai.comparator.Test:59] other character is: 6
+[INFO  2016-07-02 14:22:24,205 com.nanhai.comparator.Test:60] total lenght is:  90
+[INFO  2016-07-02 14:25:22,589 com.nanhai.comparator.Test:17] test
+[INFO  2016-07-02 14:25:22,592 com.nanhai.comparator.Test:36]  word is : 林
+[INFO  2016-07-02 14:25:22,593 com.nanhai.comparator.Test:36]  word is : 老
+[INFO  2016-07-02 14:25:22,594 com.nanhai.comparator.Test:49] found the word in high frequency老
+[INFO  2016-07-02 14:25:22,594 com.nanhai.comparator.Test:36]  word is : 师
+[INFO  2016-07-02 14:25:22,594 com.nanhai.comparator.Test:36]  word is : 打
+[INFO  2016-07-02 14:25:22,595 com.nanhai.comparator.Test:49] found the word in high frequency打
+[INFO  2016-07-02 14:25:22,595 com.nanhai.comparator.Test:36]  word is : 算
+[INFO  2016-07-02 14:25:22,596 com.nanhai.comparator.Test:49] found the word in high frequency算
+[INFO  2016-07-02 14:25:22,596 com.nanhai.comparator.Test:36]  word is : 这
+[INFO  2016-07-02 14:25:22,596 com.nanhai.comparator.Test:49] found the word in high frequency这
+[INFO  2016-07-02 14:25:22,596 com.nanhai.comparator.Test:36]  word is : 个
+[INFO  2016-07-02 14:25:22,597 com.nanhai.comparator.Test:49] found the word in high frequency个
+[INFO  2016-07-02 14:25:22,597 com.nanhai.comparator.Test:36]  word is : 学
+[INFO  2016-07-02 14:25:22,597 com.nanhai.comparator.Test:49] found the word in high frequency学
+[INFO  2016-07-02 14:25:22,597 com.nanhai.comparator.Test:36]  word is : 期
+[INFO  2016-07-02 14:25:22,598 com.nanhai.comparator.Test:36]  word is : ，
+[INFO  2016-07-02 14:25:22,598 com.nanhai.comparator.Test:36]  word is : 在
+[INFO  2016-07-02 14:25:22,598 com.nanhai.comparator.Test:49] found the word in high frequency在
+[INFO  2016-07-02 14:25:22,598 com.nanhai.comparator.Test:36]  word is : 她
+[INFO  2016-07-02 14:25:22,598 com.nanhai.comparator.Test:49] found the word in high frequency她
+[INFO  2016-07-02 14:25:22,599 com.nanhai.comparator.Test:36]  word is : 任
+[INFO  2016-07-02 14:25:22,599 com.nanhai.comparator.Test:36]  word is : 教
+[INFO  2016-07-02 14:25:22,599 com.nanhai.comparator.Test:49] found the word in high frequency教
+[INFO  2016-07-02 14:25:22,599 com.nanhai.comparator.Test:36]  word is : 的
+[INFO  2016-07-02 14:25:22,599 com.nanhai.comparator.Test:49] found the word in high frequency的
+[INFO  2016-07-02 14:25:22,599 com.nanhai.comparator.Test:36]  word is : 班
+[INFO  2016-07-02 14:25:22,600 com.nanhai.comparator.Test:36]  word is : 上
+[INFO  2016-07-02 14:25:22,600 com.nanhai.comparator.Test:49] found the word in high frequency上
+[INFO  2016-07-02 14:25:22,600 com.nanhai.comparator.Test:36]  word is : ，
+[INFO  2016-07-02 14:25:22,600 com.nanhai.comparator.Test:36]  word is : 进
+[INFO  2016-07-02 14:25:22,600 com.nanhai.comparator.Test:49] found the word in high frequency进
+[INFO  2016-07-02 14:25:22,600 com.nanhai.comparator.Test:36]  word is : 行
+[INFO  2016-07-02 14:25:22,600 com.nanhai.comparator.Test:49] found the word in high frequency行
+[INFO  2016-07-02 14:25:22,600 com.nanhai.comparator.Test:36]  word is : 一
+[INFO  2016-07-02 14:25:22,601 com.nanhai.comparator.Test:49] found the word in high frequency一
+[INFO  2016-07-02 14:25:22,601 com.nanhai.comparator.Test:36]  word is : 个
+[INFO  2016-07-02 14:25:22,601 com.nanhai.comparator.Test:49] found the word in high frequency个
+[INFO  2016-07-02 14:25:22,601 com.nanhai.comparator.Test:36]  word is : 前
+[INFO  2016-07-02 14:25:22,601 com.nanhai.comparator.Test:49] found the word in high frequency前
+[INFO  2016-07-02 14:25:22,601 com.nanhai.comparator.Test:36]  word is : 所
+[INFO  2016-07-02 14:25:22,602 com.nanhai.comparator.Test:49] found the word in high frequency所
+[INFO  2016-07-02 14:25:22,602 com.nanhai.comparator.Test:36]  word is : 未
+[INFO  2016-07-02 14:25:22,602 com.nanhai.comparator.Test:36]  word is : 有
+[INFO  2016-07-02 14:25:22,602 com.nanhai.comparator.Test:49] found the word in high frequency有
+[INFO  2016-07-02 14:25:22,602 com.nanhai.comparator.Test:36]  word is : 的
+[INFO  2016-07-02 14:25:22,602 com.nanhai.comparator.Test:49] found the word in high frequency的
+[INFO  2016-07-02 14:25:22,603 com.nanhai.comparator.Test:36]  word is : 校
+[INFO  2016-07-02 14:25:22,603 com.nanhai.comparator.Test:36]  word is : 外
+[INFO  2016-07-02 14:25:22,603 com.nanhai.comparator.Test:49] found the word in high frequency外
+[INFO  2016-07-02 14:25:22,603 com.nanhai.comparator.Test:36]  word is : 教
+[INFO  2016-07-02 14:25:22,603 com.nanhai.comparator.Test:49] found the word in high frequency教
+[INFO  2016-07-02 14:25:22,603 com.nanhai.comparator.Test:36]  word is : 学
+[INFO  2016-07-02 14:25:22,604 com.nanhai.comparator.Test:49] found the word in high frequency学
+[INFO  2016-07-02 14:25:22,604 com.nanhai.comparator.Test:36]  word is : 活
+[INFO  2016-07-02 14:25:22,604 com.nanhai.comparator.Test:36]  word is : 动
+[INFO  2016-07-02 14:25:22,604 com.nanhai.comparator.Test:36]  word is : ，
+[INFO  2016-07-02 14:25:22,604 com.nanhai.comparator.Test:36]  word is : 是
+[INFO  2016-07-02 14:25:22,604 com.nanhai.comparator.Test:49] found the word in high frequency是
+[INFO  2016-07-02 14:25:22,604 com.nanhai.comparator.Test:36]  word is : 学
+[INFO  2016-07-02 14:25:22,605 com.nanhai.comparator.Test:49] found the word in high frequency学
+[INFO  2016-07-02 14:25:22,605 com.nanhai.comparator.Test:36]  word is : 校
+[INFO  2016-07-02 14:25:22,605 com.nanhai.comparator.Test:36]  word is : 开
+[INFO  2016-07-02 14:25:22,605 com.nanhai.comparator.Test:49] found the word in high frequency开
+[INFO  2016-07-02 14:25:22,605 com.nanhai.comparator.Test:36]  word is : 办
+[INFO  2016-07-02 14:25:22,605 com.nanhai.comparator.Test:36]  word is : 以
+[INFO  2016-07-02 14:25:22,606 com.nanhai.comparator.Test:49] found the word in high frequency以
+[INFO  2016-07-02 14:25:22,606 com.nanhai.comparator.Test:36]  word is : 来
+[INFO  2016-07-02 14:25:22,606 com.nanhai.comparator.Test:49] found the word in high frequency来
+[INFO  2016-07-02 14:25:22,606 com.nanhai.comparator.Test:36]  word is : 的
+[INFO  2016-07-02 14:25:22,606 com.nanhai.comparator.Test:49] found the word in high frequency的
+[INFO  2016-07-02 14:25:22,606 com.nanhai.comparator.Test:36]  word is : 第
+[INFO  2016-07-02 14:25:22,606 com.nanhai.comparator.Test:36]  word is : 一
+[INFO  2016-07-02 14:25:22,607 com.nanhai.comparator.Test:49] found the word in high frequency一
+[INFO  2016-07-02 14:25:22,607 com.nanhai.comparator.Test:36]  word is : 次
+[INFO  2016-07-02 14:25:22,607 com.nanhai.comparator.Test:49] found the word in high frequency次
+[INFO  2016-07-02 14:25:22,607 com.nanhai.comparator.Test:36]  word is : 。
+[INFO  2016-07-02 14:25:22,607 com.nanhai.comparator.Test:36]  word is : 这
+[INFO  2016-07-02 14:25:22,607 com.nanhai.comparator.Test:49] found the word in high frequency这
+[INFO  2016-07-02 14:25:22,607 com.nanhai.comparator.Test:36]  word is : 个
+[INFO  2016-07-02 14:25:22,607 com.nanhai.comparator.Test:49] found the word in high frequency个
+[INFO  2016-07-02 14:25:22,607 com.nanhai.comparator.Test:36]  word is : 教
+[INFO  2016-07-02 14:25:22,607 com.nanhai.comparator.Test:49] found the word in high frequency教
+[INFO  2016-07-02 14:25:22,608 com.nanhai.comparator.Test:36]  word is : 学
+[INFO  2016-07-02 14:25:22,608 com.nanhai.comparator.Test:49] found the word in high frequency学
+[INFO  2016-07-02 14:25:22,608 com.nanhai.comparator.Test:36]  word is : 活
+[INFO  2016-07-02 14:25:22,608 com.nanhai.comparator.Test:36]  word is : 动
+[INFO  2016-07-02 14:25:22,608 com.nanhai.comparator.Test:36]  word is : 的
+[INFO  2016-07-02 14:25:22,608 com.nanhai.comparator.Test:49] found the word in high frequency的
+[INFO  2016-07-02 14:25:22,609 com.nanhai.comparator.Test:36]  word is : 地
+[INFO  2016-07-02 14:25:22,609 com.nanhai.comparator.Test:49] found the word in high frequency地
+[INFO  2016-07-02 14:25:22,609 com.nanhai.comparator.Test:36]  word is : 点
+[INFO  2016-07-02 14:25:22,609 com.nanhai.comparator.Test:49] found the word in high frequency点
+[INFO  2016-07-02 14:25:22,609 com.nanhai.comparator.Test:36]  word is : 就
+[INFO  2016-07-02 14:25:22,609 com.nanhai.comparator.Test:49] found the word in high frequency就
+[INFO  2016-07-02 14:25:22,609 com.nanhai.comparator.Test:36]  word is : 位
+[INFO  2016-07-02 14:25:22,609 com.nanhai.comparator.Test:49] found the word in high frequency位
+[INFO  2016-07-02 14:25:22,609 com.nanhai.comparator.Test:36]  word is : 于
+[INFO  2016-07-02 14:25:22,610 com.nanhai.comparator.Test:49] found the word in high frequency于
+[INFO  2016-07-02 14:25:22,610 com.nanhai.comparator.Test:36]  word is : 郊
+[INFO  2016-07-02 14:25:22,610 com.nanhai.comparator.Test:36]  word is : 区
+[INFO  2016-07-02 14:25:22,610 com.nanhai.comparator.Test:36]  word is : 的
+[INFO  2016-07-02 14:25:22,610 com.nanhai.comparator.Test:49] found the word in high frequency的
+[INFO  2016-07-02 14:25:22,610 com.nanhai.comparator.Test:36]  word is :  
+[INFO  2016-07-02 14:25:22,610 com.nanhai.comparator.Test:36]  word is : “
+[INFO  2016-07-02 14:25:22,610 com.nanhai.comparator.Test:36]  word is : 流
+[INFO  2016-07-02 14:25:22,611 com.nanhai.comparator.Test:36]  word is : 浪
+[INFO  2016-07-02 14:25:22,611 com.nanhai.comparator.Test:36]  word is : 动
+[INFO  2016-07-02 14:25:22,611 com.nanhai.comparator.Test:36]  word is : 物
+[INFO  2016-07-02 14:25:22,611 com.nanhai.comparator.Test:36]  word is : 收
+[INFO  2016-07-02 14:25:22,612 com.nanhai.comparator.Test:36]  word is : 容
+[INFO  2016-07-02 14:25:22,612 com.nanhai.comparator.Test:36]  word is : 所
+[INFO  2016-07-02 14:25:22,612 com.nanhai.comparator.Test:49] found the word in high frequency所
+[INFO  2016-07-02 14:25:22,612 com.nanhai.comparator.Test:36]  word is : ”
+[INFO  2016-07-02 14:25:22,612 com.nanhai.comparator.Test:36]  word is : 。
+[INFO  2016-07-02 14:25:22,612 com.nanhai.comparator.Test:36]  word is : 星
+[INFO  2016-07-02 14:25:22,612 com.nanhai.comparator.Test:36]  word is : 期
+[INFO  2016-07-02 14:25:22,612 com.nanhai.comparator.Test:36]  word is : 三
+[INFO  2016-07-02 14:25:22,613 com.nanhai.comparator.Test:49] found the word in high frequency三
+[INFO  2016-07-02 14:25:22,613 com.nanhai.comparator.Test:36]  word is : 清
+[INFO  2016-07-02 14:25:22,613 com.nanhai.comparator.Test:36]  word is : 晨
+[INFO  2016-07-02 14:25:22,613 com.nanhai.comparator.Test:36]  word is : ，
+[INFO  2016-07-02 14:25:22,613 com.nanhai.comparator.Test:36]  word is : 宽
+[INFO  2016-07-02 14:25:22,613 com.nanhai.comparator.Test:36]  word is : 广
+[INFO  2016-07-02 14:25:22,613 com.nanhai.comparator.Test:36]  word is : 的
+[INFO  2016-07-02 14:25:22,613 com.nanhai.comparator.Test:49] found the word in high frequency的
+[INFO  2016-07-02 14:25:22,613 com.nanhai.comparator.Test:36]  word is : 学
+[INFO  2016-07-02 14:25:22,613 com.nanhai.comparator.Test:49] found the word in high frequency学
+[INFO  2016-07-02 14:25:22,614 com.nanhai.comparator.Test:36]  word is : 校
+[INFO  2016-07-02 14:25:22,614 com.nanhai.comparator.Test:36]  word is : 停
+[INFO  2016-07-02 14:25:22,614 com.nanhai.comparator.Test:49] found the word in high frequency停
+[INFO  2016-07-02 14:25:22,614 com.nanhai.comparator.Test:36]  word is : 车
+[INFO  2016-07-02 14:25:22,614 com.nanhai.comparator.Test:49] found the word in high frequency车
+[INFO  2016-07-02 14:25:22,614 com.nanhai.comparator.Test:36]  word is : 场
+[INFO  2016-07-02 14:25:22,614 com.nanhai.comparator.Test:36]  word is : ，
+[INFO  2016-07-02 14:25:22,614 com.nanhai.comparator.Test:36]  word is : 有
+[INFO  2016-07-02 14:25:22,614 com.nanhai.comparator.Test:49] found the word in high frequency有
+[INFO  2016-07-02 14:25:22,614 com.nanhai.comparator.Test:36]  word is : 一
+[INFO  2016-07-02 14:25:22,615 com.nanhai.comparator.Test:49] found the word in high frequency一
+[INFO  2016-07-02 14:25:22,615 com.nanhai.comparator.Test:36]  word is : 群
+[INFO  2016-07-02 14:25:22,615 com.nanhai.comparator.Test:36]  word is : 七
+[INFO  2016-07-02 14:25:22,615 com.nanhai.comparator.Test:49] found the word in high frequency七
+[INFO  2016-07-02 14:25:22,615 com.nanhai.comparator.Test:36]  word is : 到
+[INFO  2016-07-02 14:25:22,615 com.nanhai.comparator.Test:49] found the word in high frequency到
+[INFO  2016-07-02 14:25:22,615 com.nanhai.comparator.Test:36]  word is : 八
+[INFO  2016-07-02 14:25:22,615 com.nanhai.comparator.Test:49] found the word in high frequency八
+[INFO  2016-07-02 14:25:22,615 com.nanhai.comparator.Test:36]  word is : 岁
+[INFO  2016-07-02 14:25:22,615 com.nanhai.comparator.Test:49] found the word in high frequency岁
+[INFO  2016-07-02 14:25:22,615 com.nanhai.comparator.Test:36]  word is : 的
+[INFO  2016-07-02 14:25:22,616 com.nanhai.comparator.Test:49] found the word in high frequency的
+[INFO  2016-07-02 14:25:22,616 com.nanhai.comparator.Test:36]  word is : 学
+[INFO  2016-07-02 14:25:22,616 com.nanhai.comparator.Test:49] found the word in high frequency学
+[INFO  2016-07-02 14:25:22,616 com.nanhai.comparator.Test:36]  word is : 生
+[INFO  2016-07-02 14:25:22,616 com.nanhai.comparator.Test:49] found the word in high frequency生
+[INFO  2016-07-02 14:25:22,616 com.nanhai.comparator.Test:36]  word is : ，
+[INFO  2016-07-02 14:25:22,616 com.nanhai.comparator.Test:36]  word is : 各
+[INFO  2016-07-02 14:25:22,616 com.nanhai.comparator.Test:36]  word is : 个
+[INFO  2016-07-02 14:25:22,616 com.nanhai.comparator.Test:49] found the word in high frequency个
+[INFO  2016-07-02 14:25:22,616 com.nanhai.comparator.Test:36]  word is : 拿
+[INFO  2016-07-02 14:25:22,616 com.nanhai.comparator.Test:49] found the word in high frequency拿
+[INFO  2016-07-02 14:25:22,617 com.nanhai.comparator.Test:36]  word is : 着
+[INFO  2016-07-02 14:25:22,617 com.nanhai.comparator.Test:49] found the word in high frequency着
+[INFO  2016-07-02 14:25:22,617 com.nanhai.comparator.Test:36]  word is : 自
+[INFO  2016-07-02 14:25:22,617 com.nanhai.comparator.Test:36]  word is : 己
+[INFO  2016-07-02 14:25:22,617 com.nanhai.comparator.Test:36]  word is : 最
+[INFO  2016-07-02 14:25:22,617 com.nanhai.comparator.Test:49] found the word in high frequency最
+[INFO  2016-07-02 14:25:22,617 com.nanhai.comparator.Test:36]  word is : 喜
+[INFO  2016-07-02 14:25:22,617 com.nanhai.comparator.Test:36]  word is : 爱
+[INFO  2016-07-02 14:25:22,617 com.nanhai.comparator.Test:49] found the word in high frequency爱
+[INFO  2016-07-02 14:25:22,617 com.nanhai.comparator.Test:36]  word is : 的
+[INFO  2016-07-02 14:25:22,617 com.nanhai.comparator.Test:49] found the word in high frequency的
+[INFO  2016-07-02 14:25:22,617 com.nanhai.comparator.Test:36]  word is : 故
+[INFO  2016-07-02 14:25:22,618 com.nanhai.comparator.Test:36]  word is : 事
+[INFO  2016-07-02 14:25:22,618 com.nanhai.comparator.Test:49] found the word in high frequency事
+[INFO  2016-07-02 14:25:22,618 com.nanhai.comparator.Test:36]  word is : 书
+[INFO  2016-07-02 14:25:22,618 com.nanhai.comparator.Test:49] found the word in high frequency书
+[INFO  2016-07-02 14:25:22,618 com.nanhai.comparator.Test:36]  word is : ，
+[INFO  2016-07-02 14:25:22,618 com.nanhai.comparator.Test:36]  word is : 兴
+[INFO  2016-07-02 14:25:22,618 com.nanhai.comparator.Test:36]  word is : 高
+[INFO  2016-07-02 14:25:22,618 com.nanhai.comparator.Test:49] found the word in high frequency高
+[INFO  2016-07-02 14:25:22,618 com.nanhai.comparator.Test:36]  word is : 采
+[INFO  2016-07-02 14:25:22,618 com.nanhai.comparator.Test:36]  word is : 烈
+[INFO  2016-07-02 14:25:22,618 com.nanhai.comparator.Test:36]  word is : 地
+[INFO  2016-07-02 14:25:22,619 com.nanhai.comparator.Test:49] found the word in high frequency地
+[INFO  2016-07-02 14:25:22,619 com.nanhai.comparator.Test:36]  word is : 迎
+[INFO  2016-07-02 14:25:22,619 com.nanhai.comparator.Test:36]  word is : 接
+[INFO  2016-07-02 14:25:22,619 com.nanhai.comparator.Test:36]  word is : 缓
+[INFO  2016-07-02 14:25:22,619 com.nanhai.comparator.Test:36]  word is : 缓
+[INFO  2016-07-02 14:25:22,619 com.nanhai.comparator.Test:36]  word is : 开
+[INFO  2016-07-02 14:25:22,619 com.nanhai.comparator.Test:49] found the word in high frequency开
+[INFO  2016-07-02 14:25:22,619 com.nanhai.comparator.Test:36]  word is : 进
+[INFO  2016-07-02 14:25:22,619 com.nanhai.comparator.Test:49] found the word in high frequency进
+[INFO  2016-07-02 14:25:22,620 com.nanhai.comparator.Test:36]  word is : 校
+[INFO  2016-07-02 14:25:22,620 com.nanhai.comparator.Test:36]  word is : 园
+[INFO  2016-07-02 14:25:22,620 com.nanhai.comparator.Test:36]  word is : 的
+[INFO  2016-07-02 14:25:22,620 com.nanhai.comparator.Test:49] found the word in high frequency的
+[INFO  2016-07-02 14:25:22,620 com.nanhai.comparator.Test:36]  word is : 大
+[INFO  2016-07-02 14:25:22,620 com.nanhai.comparator.Test:49] found the word in high frequency大
+[INFO  2016-07-02 14:25:22,620 com.nanhai.comparator.Test:36]  word is : 巴
+[INFO  2016-07-02 14:25:22,620 com.nanhai.comparator.Test:36]  word is : 士
+[INFO  2016-07-02 14:25:22,620 com.nanhai.comparator.Test:36]  word is : 。
+[INFO  2016-07-02 14:25:22,620 com.nanhai.comparator.Test:58] high frequency is: 70
+[INFO  2016-07-02 14:25:22,620 com.nanhai.comparator.Test:59] other character is: 12
+[INFO  2016-07-02 14:25:22,620 com.nanhai.comparator.Test:60] total lenght is:  130
